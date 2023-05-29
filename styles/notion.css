@@ -386,3 +386,11 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+
+
+// start here own code
+
+.notion-block-89b08149542c4b199054d61798ef0dbe .notion-title {
+  display: none;
+}
