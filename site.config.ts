@@ -54,12 +54,20 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
+      title: '关于',
+      pageId: '8bd53451497c4bf792885e50a1d31d08'
+    },  
+    {
+      title: '永居项目',
       pageId: '40a69e8a69414627b08a8b954357156a'
     },
     {
-      title: 'Contact',
+      title: '资讯',
       pageId: '99c28a69e3fa42a68130343e19b4a3c3'
+    },
+    {
+      title: '联系',
+      pageId: '4edfcbd74946485298936babd67a84a6'
     }
   ]
 })
