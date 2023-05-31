@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '关于',
+      title: '以立',
       pageId: '8bd53451497c4bf792885e50a1d31d08'
     },  
     {
@@ -64,10 +64,6 @@ export default siteConfig({
     {
       title: '资讯',
       pageId: '99c28a69e3fa42a68130343e19b4a3c3'
-    },
-    {
-      title: '联系',
-      pageId: '4edfcbd74946485298936babd67a84a6'
     }
   ]
 })
