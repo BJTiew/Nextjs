@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '以立留学移民',
-  domain: 'https://bjtiew.notion.site/Elite-80012a4c20e94c199700f151ba6121e6',
-  author: 'Elite',
+  name: 'ELITE|以立',
+  domain: 'https://wwww.eliteworld.top',
+  author: 'ELITE | 以立',
 
   // open graph metadata (optional)
-  description: '以立，伴您走过留学移民的道路',
+  description: 'Elite|以立 - 我们提供全方位的咨询、规划和申请服务，帮助您顺利实现国际教育和移民的梦想。我们的专业团队将为您量身定制个性化方案，让您的精英之路更加顺畅和成功。立即联系我们，开启您的国际未来！',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -54,16 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '以立',
+      title: '留学',
       pageId: '8bd53451497c4bf792885e50a1d31d08'
     },  
     {
-      title: '项目',
+      title: '永居/移民',
       pageId: '40a69e8a69414627b08a8b954357156a'
-    },
-    {
-      title: '资讯',
-      pageId: '99c28a69e3fa42a68130343e19b4a3c3'
     }
   ]
 })
