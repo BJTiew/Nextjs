@@ -61,6 +61,10 @@
   display: none;
 }
 
+.notion-gallery-grid .notion-page-icon-inline {
+  display: none;
+}
+
 .notion-gallery-grid .notion-page-title-text {
   font-size: 1.4em;
   font-weight: bold;
