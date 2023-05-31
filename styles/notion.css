@@ -403,6 +403,6 @@
   display: none;
 }
 
-.notion-aside-table-of-contents-header {
-  display: none;
+.notion-aside-table-of-contents .notion-aside-table-of-contents-header {
+  visibility: hidden;
 }
