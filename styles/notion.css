@@ -404,10 +404,11 @@
 }
 
 .notion-aside-table-of-contents .notion-aside-table-of-contents-header {
+  display: none;
   visibility: hidden;
 }
 
 
-notion-toggle notion-block-f7d332a4dba04d2eae2b7a49de4e09eb {
-  visibility: hidden;
+.notion-toggle notion-block-f7d332a4dba04d2eae2b7a49de4e09eb {
+  display: none;
 }
