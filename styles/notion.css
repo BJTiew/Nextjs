@@ -403,3 +403,10 @@
 .notion-equation.notion-equation-block{
   align-items: center;
 }
+
+
+
+.notion-collection,
+.notion-collection-header-title {
+    display: none;
+}
