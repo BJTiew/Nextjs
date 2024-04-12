@@ -405,9 +405,11 @@
 }
 
 
-/*
+
 .notion-collection,
 .notion-collection-header-title {
-    display: none;
+  opacity: 0;
+  width: 1px; /* Example width */
+  height: 1px; /* Example height */
 }
-*/
+
